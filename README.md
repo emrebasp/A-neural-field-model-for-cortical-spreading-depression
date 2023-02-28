@@ -1,8 +1,6 @@
 # A-neural-field-model-for-cortical-spreading-depression
 
-Editors: Emre Baspinar,    emre.baspinar@cnrs.fr
-
-	       Daniele Avitabile, d.avitabile@vu.nl
+Editors: Emre Baspinar (emre.baspinar@cnrs.fr) & Daniele Avitabile (d.avitabile@vu.nl)
 
 Contact: emre.baspinar@cnrs.fr
 
