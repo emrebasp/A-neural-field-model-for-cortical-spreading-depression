@@ -1,8 +1,8 @@
 # A-neural-field-model-for-cortical-spreading-depression
 
-Editors: Emre Baspinar (emre.baspinar@cnrs.fr) & Daniele Avitabile (d.avitabile@vu.nl)
+Editors: Emre Baspinar (emre.baspinar@inria.fr) & Daniele Avitabile (d.avitabile@vu.nl)
 
-Contact: emre.baspinar@cnrs.fr
+Contact: emre.baspinar@inria.fr
 
 Matlab code package for a neural field model for cortical spreading depression v1.0.0
 
