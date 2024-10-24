@@ -10,4 +10,4 @@ This Matlab code package contains the implementation of the model presented in B
 
 Bibliography
 
-[1]: E. Baspinar, D. Avitabile, M. Desroches, M. Mantegazza, «  A neural field model for ignition and propagation of cortical spreading depression », HAL Archive, 2023.
+[1]: E. Baspinar, D. Avitabile, M. Desroches, M. Mantegazza, «  A neural field model for ignition and propagation of cortical spreading depression », HAL, 2023.
