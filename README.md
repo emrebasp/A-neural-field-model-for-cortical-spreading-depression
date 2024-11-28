@@ -15,4 +15,4 @@ This Matlab code package contains the implementation of the model presented in B
 Bibliography
 
 [1]: E. Baspinar, M. Simonti, H. Srour, M. Desroches, D. Avitabile, M. Mantegazza, «  GABAergic neurons can facilitate the propagation of cortical spreading depolarization: experiments in mouse neocortical slices and a novel neural field computational model », bioRxiv, 2024.
-[2]: E. Baspinar, D. Avitabile, «  A neural field model for cortical spreading depression  », Zenodo, 2024, [https://doi.org/10.5281/zenodo.14230278].
+[2]: E. Baspinar, D. Avitabile, «  A neural field model for cortical spreading depression  », Zenodo, 2024, https://doi.org/10.5281/zenodo.14230278.
