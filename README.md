@@ -1,7 +1,8 @@
 # Code for the paper "GABAergic neurons can facilitate the propagation of cortical spreading depolarization: experiments in mouse neocortical slices and a novel neural field computational model" by E. Baspinar, M. Simonti, H. Srour, M. Desroches, D. Avitabile, M. Mantegazza 
 
 
-## A-neural-field-model-for-cortical-spreading-depression
+
+## A neural field model for cortical spreading depression
 
 Editors: Emre Baspinar (emre.baspinar@inria.fr) & Daniele Avitabile (d.avitabile@vu.nl)
 
